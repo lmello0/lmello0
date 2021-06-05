@@ -1,13 +1,13 @@
 ## Salve, eu sou o Lucas, prazer!
 
-<div style="align: center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmello0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmello0&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 
 ## Contato:
 
-<div style="text-align: center">
+<div align="center">
   <a href = "mailto: melloluc02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lmello0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
