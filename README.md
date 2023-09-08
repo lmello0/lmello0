@@ -40,4 +40,5 @@ Fullstack developer based in **São Paulo BR**
   <a href = "mailto: melloluc02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
   <a href="https://www.linkedin.com/in/lmello0" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external"></a>
   
+  ![Snake animation](https://github.com/lmello0/lmello0/blob/output/github-contribution-grid-snake.svg)
 </div>
