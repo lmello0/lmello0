@@ -1,11 +1,11 @@
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/lmello0/lmello0/blob/main/fox.jpeg" alt="Fox" style="width: 200%; border: none;">
+      <img src="https://github.com/lmello0/lmello0/blob/main/fox.png" alt="Fox" style="width: 200%; border: none;">
     </td>
     <td style="width: 50%; vertical-align: top;">
   	  <p style="font-family: monospace; font-size: 16px;">
-        
+
     ┃          ┏┓┏┓  ┏─┓  ┓
     ┃ ┓┓┏─┏┓┏─ ┃┃┃┃  ┗─┓┏┓┣┓╇┏┓┏─
     ┗─┗┛┗─┗┻─┛ ┛┗┛┗. ┗─┛┗┻┛┗┗┗┛─┛
